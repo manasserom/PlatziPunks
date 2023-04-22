@@ -1,3 +1,15 @@
+# About this Project (User Interface)
+PlatziPunks is a marketplace of NFTs created from data stored entirely on the blockchain and displayed through an application hosted on a decentralized file system.
+  
+Platzi Punks is a collection of randomized Avatars whose metadata is stored on-chain. They have unique characteristics and there are only 10000 in existence.
+
+Each Platzi Punk is generated sequentially based on your address, use the previewer to find out what your Platzi Punk would be if you lie right now.
+
+This project is inspired by OpenSea (https://opensea.io/es) and realized in a course on the Platzi platform (https://platzi.com/)
+
+For the smart contracts, see: https://github.com/manasserom/PlatziPunks-Soldity 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
